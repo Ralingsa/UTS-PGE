@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: f9761fdec0e31034eaf6299517b9282e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: b Bagian
+  fontNames:
+  - b Bagian
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f5df5e7322752064782af5fb9e3e8424, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
